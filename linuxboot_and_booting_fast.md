@@ -114,7 +114,7 @@ TinyURL: <https://tinyurl.com/linuxbootfast>
 
 1.  Systems get faster, but still take some time
 1.  Differentiate between firmware and OS
-1.  Suspend to RAM is bad, and just a workaround (and adds unneded complexity)
+1.  Suspend to RAM is bad, and just a workaround (and adds unneeded complexity)
 1.  If you want to keep the state, use suspend to disk.
 1.  How many power plants could be shut down?
 1.  Customers should request fast boot times.
